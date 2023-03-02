@@ -1,0 +1,5 @@
+# ./onepiece.txt
+
+luffy
+nami
+boa
